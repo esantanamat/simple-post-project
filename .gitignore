@@ -2,3 +2,4 @@ __pycache__/
 .vscode/
 venv/
 PG Local.session.sql/
+.env
